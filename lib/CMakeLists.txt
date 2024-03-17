@@ -1,0 +1,1 @@
+add_library(BST INTERFACE BST_Container.h BST_BidirectionalIterator.h BST.h Nodes.h)
